@@ -39,7 +39,8 @@ This is my content for article two This is my content for article oneThis is my 
     <p>
         This is my content for article one This is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article oneThis is my content for article one
     </p>`,},
-'articleThree':{title:'Article-three|Hariharan G',
+'articleThree':{
+title:'Article-three|Hariharan G',
 heading:'article three',
 date:'sept 18',
 content:`
