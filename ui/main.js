@@ -13,6 +13,6 @@ button.onclick=function(){
           }
       }  
     };
- request.open('GET','http://hariharang09.imad.hasura-app.io/counter',true)
+ request.open('GET','http://hariharang09.imad.hasura-app.io/counter',true);
  request.send(numm);
 };
