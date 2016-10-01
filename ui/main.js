@@ -7,12 +7,12 @@ button.onclick=function(){
           if(request.status---200){
              var counter=request.responseText;
          counter=counter+1;
- var span=document.getElementById("count");
+ var span=document.getElementById('count');
  
  span.innerHTML=counter.toString();
           }
       }  
     };
- request.open("GET","http://hariharang09.imad.hasura-app.io/counter",true)
+ request.open('GET','http://hariharang09.imad.hasura-app.io/counter',true)
  request.send(numm);
 };
